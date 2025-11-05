@@ -57,6 +57,7 @@ local ThemeManager = {} do
 		['Default']       = { 1, { FontColor = "ffffff", MainColor = "000000", AccentColor = "00ff00", BackgroundColor = "000000", OutlineColor = "323232" } },
 		['BBot']          = { 2, { FontColor = "ffffff", MainColor = "1e1e1e", AccentColor = "7e48a3", BackgroundColor = "232323", OutlineColor = "141414" } },
 		['Fatality']      = { 3, { FontColor = "ffffff", MainColor = "1e1842", AccentColor = "c50754", BackgroundColor = "191335", OutlineColor = "3c355d" } },
+		['Millionware']      = { 4, { FontColor = "ffffff", MainColor = "0a0a0a", AccentColor = "ff6ca1", BackgroundColor = "0a0a0a", OutlineColor = "323232" } },
 	}
 
 	function ApplyBackgroundVideo(videoLink)
